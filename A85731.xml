@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The groans of France in slavery, gasping after liberty. Done out of French</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85731</idno>
+            <idno type="STC">Wing G2056A</idno>
+            <idno type="STC">ESTC R228402</idno>
+            <idno type="EEBO-CITATION">99896373</idno>
+            <idno type="PROQUEST">99896373</idno>
+            <idno type="VID">154172</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85731)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154172)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2403:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The groans of France in slavery, gasping after liberty. Done out of French</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>France --  History --  Louis XIV, 1643-1715 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:154172:1" rendition="simple:additions"/>
+            <head>THE <hi>Groans of France</hi> In SLAVERY, Gaſping after LIBERTY.</head>
+            <head type="sub">Done out of French.</head>
+            <p>WHEN ſuch a powerful <hi>Confederacy</hi> was form'd againſt our King, We who are not ſo much as ſuffer'd to <hi>ſpeak</hi> of Liberty our ſelves, did hope that our Deliverance was at hand: But now, after ſix Years Experience, finding the Policy of a Neighbour Nation (from whom alone, under God, we expect Exemption from our Servi<g ref="char:EOLhyphen"/>tude) ſo much off the Hooks, that thoſe among them
+<pb n="2" facs="tcp:154172:2"/>who ſit at the Helm, and approach neareſt to their Brave KING, do more mind Enriching themſelves, though at the expenſive Ruine of their Fellow-Subjects, than Conquering their Enemies. Now, we think it time to ſpeak, and, if poſſible, by our lamentable Groans and Cryes, to awaken thoſe who are, we hope, deſign'd by God Almighty to ſet us miſerable Creatures in <hi>Statu quo,</hi> and to make us truly <hi>Franks</hi> again.</p>
+            <p>Can any Chriſtian, without Remorſe and Pity, hear the Miſeries of our Poor, that wander about the Streets, even of <hi>Paris</hi> it ſelf, to rake the Dunghills for dead Horſes, wherewith to feed their raging Stomachs? The Form and Mildneſs of our ancient Government is quite loſt; and although neither. We nor our Anceſtors have ever yet given the King any one authentick Title to our Privileges; yet we have a Yoke impos'd upon us, that is more cruel and inſupportable than that which the <hi>Grand Signior</hi> and <hi>Great Mogull</hi> impoſe upon their Slaves.</p>
+            <p>Our <hi>Tyrant</hi> would, if poſſible, hinder us from ſeeing Liberty enjoyed by others; which has oblig'd him for ſo many Years to endeavour, with ſo much Obſtinacy, to make the <hi>Engliſh</hi> and <hi>Dutch</hi> our Companions in Sla<g ref="char:EOLhyphen"/>very. He cannot bear the Neighbourhood of a Nation that has always aſſerted its Privileges with a great deal of Vigour: Nor is he leſs prejudic'd againſt another, that had the Courage to ſhake off its Fetters. But ſince he has failed to Enſlave <hi>Them,</hi> we hope the time is come when Providence will ſet <hi>
+                  <g ref="char:V">Ʋ</g>s</hi> Free; for all good Frenchmen are in love with the Conſtitution of the <hi>Engliſh</hi> Govern<g ref="char:EOLhyphen"/>ment, and hope, e're long, to ſettle one like it at Home; which, after all, will be only our own Ancient Form of Go<g ref="char:EOLhyphen"/>vernment
+<pb n="3" facs="tcp:154172:2"/>reſtor'd: Our <hi>Court-Penſioners</hi> in <hi>England</hi> and <hi>Holland,</hi> as we hear, give out, That we are enamour'd of our Bondage, in love with our Chains; and like a Pack-Horſe pleas'd with his Bells, goe merrily with the Burthen that is laid upon us; and that our Riches are inexhauſtible, and We as able and willing to part with our Money, as the Engliſh and Dutch are to part with theirs. But we hope our Neighbours will not be impos'd upon ſo groſsly: Though we have loſt our Liberty, we are not utterly bereav'd of com<g ref="char:EOLhyphen"/>mon Sence. The Pack-Horſe will not carry his Load very cheerfully, if he have not Provender and Hay at Night, as well as his Bells in the Day. Can the <hi>Confederates</hi> be ignorant of the Diſſatisfaction of the Nobility, Gentry, and Third Eſtate, which is ſo notorious in <hi>Paris,</hi> and all the Great Cities, eſpecially in this Kingdom? Have they not heard in <hi>England</hi> and <hi>Holland,</hi> how vaſtly our King's Revenues are diminiſh'd? And as our Nobles have not Money to ſpare for Wine, ſo our Common People want a Denier to buy 'em Bread. Our Fields lie Untilled, and are almoſt turn'd to Deſarts; an infinite number of People are dead of Cold, Hunger, and other Di<g ref="char:EOLhyphen"/>ſtempers, now Epidemical in <hi>France;</hi> thoſe Towns which we have known in a flouriſhing Condition, and well Peopled, are now ruin'd and abandon'd by their Inhabitants, moſt of the Tradeſmen being gone for Soldiers, or reduced to Beggary.</p>
+            <p>What ſhall we do now? Whereby ſhall we put an end to all this Miſery? Shall we entreat the King to call a General Meeting of the Eſtates of the Realm? But who dares undertake to preſent our Petition to him? Shall the Princes of the Blood? There is not
+<pb n="4" facs="tcp:154172:3"/>one amongſt them that dares offer his Majeſty the leaſt Remonſtrance? Shall the Dukes and Peers of <hi>France,</hi> or the Officers of the Crown? They would moſt certainly be rewarded with a Lodging in the <hi>Baſtile;</hi> and there are too many baſe Complyers, that would help to drag them thither. Should the Parliament of <hi>Paris</hi> go in a Body, with their Primeir-Preſident before them; the Heads of that Aſſembly wou'd be puniſh'd as Seditious Traytors. Shou'd it be preſented by the Inhabitants of <hi>Paris,</hi> and the reſt of the great Cities, we ſhould ſee Gibbets erected in every Corner of the Streets, and the Troops of the Houſhold ſent to devour that ſmall Pittance of Main<g ref="char:EOLhyphen"/>tenance which is yet left to maintain their Wives and Children. Our poor and ill pay'd Officers wou'd barbarouſly pillage the Houſes of thoſe Perſons, who could be accus'd of no other Crime, than endeavour<g ref="char:EOLhyphen"/>ing to preſerve that little remainder of Liberty which they ſeem ſtill to enjoy.</p>
+            <p>Formerly, whenever our Kings acted contrary to the Privileges of the Kingdom, the Nobility and People appeal'd to the General Aſſembly of Eſtates, and joyn'd in Leagues to oppoſe them: But now we have none left in <hi>France,</hi> but Young Lads, or extreme Old Men, or Shadows of a Middle Age, ſo fatigued for the Glory of our Grand Monarch, that they are ſent Home to be recover'd and nurs'd up, or rather, to encreaſe our Miſery, by augmenting the Number of our Indigents, Our Noblemens Houſes want their Lords and Maſters, who have been ſubtilly en<g ref="char:EOLhyphen"/>gaged into that Chargeable way of living, that they are now forc'd to make the Camp their Refuge, and
+<pb n="5" facs="tcp:154172:3"/>leave their miſerable Ladies to be attended by an Equipage fit only for an Hoſpital.</p>
+            <p>Our In-land Cities have no Cannon to defend them; they are ſent to mend the Barriers, and fortifie the Frontiers of our Maritime Towns: And our Burghers are not ſuffer'd even to repair our decayed Walls; 'tis enough for them to erect Statues for the King, or to cauſe Inſcriptions to be engraven in Ho<g ref="char:EOLhyphen"/>nour of that <hi>Immortal Man!</hi>
+            </p>
+            <p>The Fortifications and numerous Garriſons of <hi>Caſal, Strasburgh,</hi> and other Frontier Places, have as well drein'd our Men as Money, to that degree, that our <hi>Ban</hi> and <hi>Arrier-Ban</hi> muſt be compoſed of Women, or Non-Entities. But one great Fetch we have, and that is, to obtain Contribution from our Friends in <hi>England,</hi> or Ranſom for Priſoners taken in Prizes, whereby we bribe ſome in all the Courts of the <hi>Con<g ref="char:EOLhyphen"/>federates,</hi> ſo as to prevail that the War ſhall be drawn out in length, and their numerous Armies kept only to amuſe our Frontiers, their Efforts ſpent in Bombing our Maritime Towns; But not a word of Invading our undefenſive Continent: No; ſhould ſuch mea<g ref="char:EOLhyphen"/>ſures be taken, the War wou'd ſoon be ended. But then thoſe that made Merchandiſe of their ſeveral Countries and Commonwealths, would have their Trade deſtroy'd. How glorious a Part we acted, when the <hi>Engliſh</hi> made their laſt Deſcent! Their Or<g ref="char:EOLhyphen"/>ders were poſitive to land at an appointed Place; and we not daring to truſt our faint diſpirited <hi>Ban</hi> and <hi>Arrier-Ban,</hi> detach'd old Soldiers from the Frontiers, and with Thirty thouſand old Soldiers, and a good Tire of Cannon, kill'd and put to flight Five hundred
+<pb n="6" facs="tcp:154172:4"/>Engliſh-men. 'Tis like one of the Victories of <hi>Lewis the Fourteenth.</hi>
+            </p>
+            <p>But let the <hi>Engliſh</hi> have a care; for if they e're ſhou'd land, although the beſt Men of our Militia are ſent away to re-inforce our Army on the Fron<g ref="char:EOLhyphen"/>tiers; and though our Towns are Peopled rather with Skeletons than Men; our Brave Nobles abſent; our Cities without Men, Walls or Cannon: yet our grand puiſſant Monarch, accompany'd with his Bro<g ref="char:EOLhyphen"/>ther of <hi>Great-Britain</hi> (Hero's of equal approved For<g ref="char:EOLhyphen"/>titude) with Regiments of Miſtreſſes, and Troops of Financiers, and all the ſtately Statues and Figures of our Terreſtrial Deity, will be ready to oppoſe them. Who knows but the Statues may turn <hi>Taliſ<g ref="char:EOLhyphen"/>mans?</hi> and the Blind and the Lame may confound the <hi>Engliſh</hi> and <hi>Dutch?</hi>
+            </p>
+            <p>But alas, this is not a time for Mirth! Oh, that we had but ſome Carrier Pigeons to ſend into <hi>England,</hi> to let thoſe Brave Men, who have ſo often recover'd their near loſt Liberty, know, that we are not ſuch Mad-men as they are made believe; we are not de<g ref="char:EOLhyphen"/>ſirous to perpetuate our Slavery: If they will leave us free to enjoy our Religion (which indeed we do not deſerve, conſidering what Properties we ſuffer'd our ſelves to be made, in Perſecuting thoſe of the Re<g ref="char:EOLhyphen"/>formation,) if they will lay aſide that fond Deſign, of making us a Province under them, but will allow us to chuſe a King of our own, who yet ſhall pay ſome ſmall Acknowledgment to their Monarch: and if they will be ſure not to fail us, and leave us to the Wheel and Gibbet for our Good-will to them; then they ſhall ſee the braveſt of our Armies deſert,
+<pb n="7" facs="tcp:154172:4" rendition="simple:additions"/>our exhauſted Kingdom make them a Noble Preſent of their Gratitude; which ſhall make all Taxes and Exciſes ceaſe with them, and <hi>Europe</hi> ſhall once more enjoy Tranquillity; their Trade and ours ſhall be reſtor'd, and not interfere; and we will turn our Ar<g ref="char:EOLhyphen"/>mies and our Fleets againſt the Enemies of the Chri<g ref="char:EOLhyphen"/>ſtian Name, or againſt thoſe baſe Neuters, who have ſo long contributed toward our more than unſuf<g ref="char:EOLhyphen"/>ferable Bondage.</p>
+            <p>But where ſhall we obtain thoſe <hi>Carrier-Pigeons?</hi> I have it, <hi>Tont pro Tont.</hi> I will go a Privateering; that will delude our <hi>Argus:</hi> or I will beſpeak ſome Wool unwrought, or pretend a Meſſage to the Male<g ref="char:EOLhyphen"/>contents, the <hi>Jacobites</hi> of <hi>Great-Britain:</hi> and if they will not hearken to this Call, which will put an end to their Miſeries and our own; then I will cry out with <hi>Tiberius, — O Homines ad ſervitutem paratos!</hi>— I will ſhake the Duſt from off my Feet, and throw my ſelf headlong off ſome Gliff, into the Sea, to be a Meal for ſome of <hi>Neptune</hi>'s Subjects, rather than longer endure the Tyranny of <hi>Lewis the Fourteenth.</hi>
+            </p>
+            <p>Before I conclude; one late Accident accurring to my mind, I will relate: An Engliſh Veſſel, either a Privateer or a Merchant-man, happening lately to be wreckt on our Coaſt, about forty of its Crew got on ſhore, well arm'd, many of them, in their Boats; and another Spy-Boat, having had the fortune to eſcape not far off, two or three happening to come in ſight of thoſe <hi>Engliſh,</hi> and to be purſued by them, who poſted away to <hi>Paris,</hi> to which they were bound, brought the dreaded News, That the <hi>Confederates</hi> were Landed. Which alarum'd <hi>Paris</hi> and <hi>Verſailles</hi>
+               <pb n="8" facs="tcp:154172:5" rendition="simple:additions"/>with different Sentiments: The firſt wiſh'd that they brought Bread and Succour: The other dreaded the Report, and were ſtruck with ſuch a Pannick Fear, that I verily believe, had Two hundred bold Men landed with good ſtore of Proviſions, they would have gather'd up our Half-ſtarv'd Countrymen, and encreas'd like a Snow-Ball; and our Illuſtrious Mo<g ref="char:EOLhyphen"/>narch <hi>(the Plague of all Mankind)</hi> wou'd have ended our Miſery by a <hi>French Abdication.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
